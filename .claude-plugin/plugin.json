@@ -1,0 +1,24 @@
+{
+  "name": "devkit",
+  "description": "Comprehensive development toolkit: 52 professional skills covering code quality, testing, API development, security, databases, DevOps, and more",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sanyam Khurana",
+    "email": "sanyam@sanyamkhurana.com"
+  },
+  "homepage": "https://github.com/CuriousLearner/devkit",
+  "repository": "https://github.com/CuriousLearner/devkit",
+  "license": "MIT",
+  "keywords": [
+    "development",
+    "toolkit",
+    "code-quality",
+    "testing",
+    "api",
+    "security",
+    "database",
+    "devops",
+    "productivity",
+    "best-practices"
+  ]
+}

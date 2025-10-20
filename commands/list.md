@@ -2,7 +2,7 @@
 description: List all available DevKit skills organized by category
 ---
 
-List all 52 DevKit skills organized by category with their descriptions.
+Display the following complete list of all 52 DevKit skills to the user. Show every category and skill exactly as listed below:
 
 ## Development Workflow (6 skills)
 - @code-formatter - Auto-format code across multiple languages
